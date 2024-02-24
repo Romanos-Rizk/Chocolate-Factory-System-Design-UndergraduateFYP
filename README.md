@@ -93,15 +93,25 @@ Furthermore, there was no provision in the system to notify customers of new pro
 ## Non-Functional Requirements:
 
 a. **Security:** The system should be designed to protect sensitive information from unauthorized access or manipulation.
+
 b. **Performance:** The system should be able to handle a high volume of requests and provide quick response times to ensure a smooth user experience.
+
 c. **Availability:** The system should be available for use 24/7 with minimal downtime for maintenance or upgrades.
+
 d. **Scalability:** The system should be able to handle an increasing number of users and data without impacting performance or functionality.
+
 e. **Usability:** The system should be easy to use, intuitive, and provide clear instructions for users with varying levels of technical expertise.
+
 f. **Reliability:** The system should be reliable and operate without errors or unexpected downtime.
+
 g. **Maintainability:** The system should be designed with ease of maintenance and updates in mind to minimize the need for significant downtime or development effort.
+
 h. **Compatibility:** The system should be compatible with commonly used browsers and devices to ensure accessibility for a broad user base.
+
 i. **Accessibility:** The system should be accessible for users with disabilities, conforming to relevant accessibility guidelines and standards.
+
 j. **Compliance:** The system should comply with relevant laws, regulations, and industry standards.
+
 
 ## Unified Modeling Language System Design:
 
